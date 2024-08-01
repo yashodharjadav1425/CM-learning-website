@@ -1,0 +1,140 @@
+// {
+        //     "id": 8,
+        //     "name": "Ruby on Rails",
+        //     "description": "Cast iron skillet, pre-seasoned.",
+        //     "price": 40.00,
+        //     "image_url": "http://example.com/images/cast_iron_skillet.jpg"
+        // },
+        // {
+        //     "id": 9,
+        //     "name": "Django",
+        //     "description": "Stainless steel mixing bowls, set of 3.",
+        //     "price": 35.00,
+        //     "image_url": "http://example.com/images/mixing_bowls.jpg"
+        // },
+        // {
+        //     "id": 10,
+        //     "name": "Angular",
+        //     "description": "Electric rice cooker with steamer.",
+        //     "price": 45.00,
+        //     "image_url": "http://example.com/images/rice_cooker.jpg"
+        // },
+        // {
+        //     "id": 11,
+        //     "name": "Vue.js",
+        //     "description": "Glass measuring cups, set of 3.",
+        //     "price": 20.00,
+        //     "image_url": "http://example.com/images/measuring_cups.jpg"
+        // },
+        // {
+        //     "id": 12,
+        //     "name": "PHP",
+        //     "description": "Silicone baking mats, set of 2.",
+        //     "price": 15.00,
+        //     "image_url": "http://example.com/images/baking_mats.jpg"
+        // },
+        // {
+        //     "id": 13,
+        //     "name": "Laravel",
+        //     "description": "Aluminum foil roll, 200 sq ft.",
+        //     "price": 10.00,
+        //     "image_url": "http://example.com/images/aluminum_foil.jpg"
+        // },
+        // {
+        //     "id": 14,
+        //     "name": "ASP.NET",
+        //     "description": "Stainless steel colander, 5 qt.",
+        //     "price": 18.00,
+        //     "image_url": "http://example.com/images/colander.jpg"
+        // },
+        // {
+        //     "id": 15,
+        //     "name": "C#",
+        //     "description": "Plastic food storage containers, set of 10.",
+        //     "price": 25.00,
+        //     "image_url": "http://example.com/images/food_containers.jpg"
+        // },
+        // {
+        //     "id": 16,
+        //     "name": "C++",
+        //     "description": "Electric kettle, 1.5L capacity.",
+        //     "price": 30.00,
+        //     "image_url": "http://example.com/images/electric_kettle.jpg"
+        // },
+        // {
+        //     "id": 17,
+        //     "name": "Go",
+        //     "description": "Ceramic coffee mug, 12 oz.",
+        //     "price": 12.00,
+        //     "image_url": "http://example.com/images/coffee_mug.jpg"
+        // },
+        // {
+        //     "id": 18,
+        //     "name": "Swift",
+        //     "description": "Bamboo cutting board, large.",
+        //     "price": 22.00,
+        //     "image_url": "http://example.com/images/cutting_board.jpg"
+        // },
+        // {
+        //     "id": 19,
+        //     "name": "Kotlin",
+        //     "description": "Insulated stainless steel water bottle.",
+        //     "price": 25.00,
+        //     "image_url": "http://example.com/images/water_bottle.jpg"
+        // },
+        // {
+        //     "id": 20,
+        //     "name": "Rust",
+        //     "description": "Stainless steel bread box.",
+        //     "price": 40.00,
+        //     "image_url": "http://example.com/images/bread_box.jpg"
+        // },
+        // {
+        //     "id": 21,
+        //     "name": "Elixir",
+        //     "description": "Electric hand mixer, 5 speeds.",
+        //     "price": 35.00,
+        //     "image_url": "http://example.com/images/hand_mixer.jpg"
+        // },
+        // {
+        //     "id": 22,
+        //     "name": "Scala",
+        //     "description": "Digital meat thermometer.",
+        //     "price": 18.00,
+        //     "image_url": "http://example.com/images/meat_thermometer.jpg"
+        // },
+        // {
+        //     "id": 23,
+        //     "name": "Perl",
+        //     "description": "Stainless steel ice cream scoop.",
+        //     "price": 12.00,
+        //     "image_url": "http://example.com/images/ice_cream_scoop.jpg"
+        // },
+        // {
+        //     "id": 24,
+        //     "name": "MATLAB",
+        //     "description": "Kitchen timer, digital display.",
+        //     "price": 15.00,
+        //     "image_url": "http://example.com/images/kitchen_timer.jpg"
+        // },
+        // {
+        //     "id": 25,
+        //     "name": "R",
+        //     "description": "Silicone spatula set, 3 pieces.",
+        //     "price": 10.00,
+        //     "image_url": "http://example.com/images/spatula_set.jpg"
+        // },
+        // {
+        //     "id": 26,
+        //     "name": "TypeScript",
+        //     "description": "Stainless steel sauce pan, 2 qt.",
+        //     "price": 28.00,
+        //     "image_url": "http://example.com/images/sauce_pan.jpg"
+        // },
+        // {
+        //     "id": 27,
+        //     "name": "Objective-C",
+        //     "description": "Glass food storage jars, set of 5.",
+        //     "price": 30.00,
+        //     "image_url": "http://example.com/images/storage_jars.jpg"
+        // }
